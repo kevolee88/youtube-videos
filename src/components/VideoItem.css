@@ -1,0 +1,7 @@
+.video-item {
+  cursor: pointer;
+}
+
+.video-item .content p.header {
+  font-size: 16px;
+}
